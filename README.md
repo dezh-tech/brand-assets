@@ -6,6 +6,25 @@ Since managing extra repos can be complex, we disabled issues. If you encounter 
 
 ## Dezh colors
 
+Black:
+
+```
+#1D1D1D
+```
+
+Deep Orange:
+
+```
+#FF4800
+```
+
+Gary:
+
+```
+#E2DDD6
+```
+
+
 <img src="./dezh/color-palette.svg" witdh="250px" height="500px"></img>
 
 This repo and assets are published under [MIT License](./LICENSE).
